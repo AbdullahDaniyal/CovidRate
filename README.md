@@ -18,17 +18,17 @@ This project is an interactive web application that visualizes COVID-19 intensit
 To get this project up and running on your local machine, follow these steps:
 1. **Clone the Repository:**
    git clone https://github.com/abdullahdaniyal/CovidRate.git
-Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 cd CovidRate
-Usage
+## Usage
 Simply open the index.html file in a web browser to see the map in action.
 
-Contributing
+## Contributing
 Contributions to enhance the functionality or improve the design are highly welcome. Please fork the repository and submit pull requests, or open an issue to discuss potential changes or ideas.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Thanks to all the health workers and researchers providing data and fighting the pandemic.
 This project was inspired by global efforts to increase awareness and provide accessible information during the COVID-19 pandemic.
